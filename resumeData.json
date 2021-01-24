@@ -1,0 +1,120 @@
+{
+  "main": {
+    "name":"Minseop Noh",
+    "occupation":"Software Developer",
+    "bio":"I'm a Software Developer who has a dream to transform the ideas to make it real in this world. I have a desire to learn and improve my skills as much as possible. I prefer to use React, Node, and AWS as a MERN stack or cloud developer. I am looking for opportunity to make a scalable web application with latest Front-end and back-end technologies.",
+    "contactmessage":"",
+    "email": "nms2811@gmail.com",
+    "phone": "647-939-8762",
+    "address":{
+      "street":"2960 Don Mills Rd",
+      "city":"Toronto",
+      "state":"Ontario",
+      "zip": "M2J 3B8"
+    },
+    "jobtitle":["Front-End Developer", "Back-End Developer", "Software Engineer", "Full Stack Developer"],
+    "website": "../public/resume/my-resume-native.pdf",
+    "resumedownload":"../public/resume/my-resume-native.pdf",
+    "social":[
+      {
+        "name":"github",
+        "url":"https://github.com/nms2811",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/minseopnoh/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Seneca College",
+        "degree":"Computer Engineering Technology",
+        "graduated":"August 2019",
+        "description":"I have gained about the knowledge of software, hardware, and network skills through Computer Engineering Technology at Seneca College; software:language such as C, C++, C#, Java, Python, PHP and Operating Systems such as Linux, Windows; hardware: Troubleshooting, Circuit Design; Network: Cisco Network, Network Design."
+      }
+    ],
+    "work":[
+      {
+        "company":"Novramedia Inc.",
+        "title":"Software Developer ",
+        "years":"May 2018 - Jan 2019",
+        "description":"I worked on managing and developing web check-in service for BMO as a full stack developer. Main language that I used during work was React, AWS, Node.js, Laravel, and NoSQL. I mostly focused on the Ajax to render the data from Server connected with NoSQL and send the data to Front-end part using RESTful API."
+      }
+    ],
+    "skills":[
+      {
+        "name":"React.js/React Native",
+        "level":"80%"
+      },
+      {
+        "name":"AWS",
+        "level":"80%"
+      },
+      {
+        "name":"Node.js",
+        "level":"75%"
+      },
+      {
+        "name":"PHP",
+        "level":"75%"
+      },
+      {
+        "name":".NET/ASP.NET",
+        "level":"75%"
+      },
+      {
+        "name":"HTML5/CSS/Javascript",
+        "level":"90%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"VueJs",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"MySQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Web portfolio",
+        "category":"Web portfolio using React",
+        "image":"web-portfolio.png",
+        "url":"https://nms2811.github.io/react-portfolio/"
+      },
+      {
+        "title":"AWS Serverless audiobook application",
+        "category":"Audiobooks convert users text into lifelike speech offering over 20 languages and 50 human-like voice types to select from",
+        "image":"audio-book.png",
+        "url":"https://audiobooks.auth.us-east-1.amazoncognito.com/login?response_type=token&client_id=l3bvst2sfbn9ndne5hh825865&redirect_uri=https://s3.amazonaws.com/helpdhruvstudyaws.com/index.html"
+      },
+      {
+        "title":"Seoul Economy News App",
+        "category":"Hybrid app based on React Native ",
+        "image":"news-app.jpg",
+        "url":"https://play.google.com/store/apps/details?id=sedailythumb.sednews&hl=en"
+      },
+      {
+        "title":"Phonebook application",
+        "category":"React based application",
+        "image":"phonebook.jpg",
+        "url":"https://github.com/nms2811/phone_book"
+      }
+    ]
+  }
+}
